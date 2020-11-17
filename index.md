@@ -11,11 +11,11 @@ Here is a list of my professional experience.
 
 ```markdown
 
-# 1.Programmer Analyst
+#1.Programmer Analyst
 
-# 2. Web Developer
+#2. Web Developer
 
-# 3. Jr. Web Developer
+#3. Jr. Web Developer
 
 - Bulleted
 - List
