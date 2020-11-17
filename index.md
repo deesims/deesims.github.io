@@ -7,7 +7,9 @@ High achieving software developer and instructor with 3+ years’ of well-rounde
 Key skills include:
 
 Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL
+
 Expert in LAMP Web Service Stacks
+
 Experience Teaching Web Development
 
 ### Markdown
