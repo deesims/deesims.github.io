@@ -10,8 +10,7 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 Here is a list of my professional experience.
 
 ```markdown
-### Programmer Analyst 
-### @ IT uOttawa
+### Programmer Analyst @ IT uOttawa
 
 September 2019 - September 2020
 
