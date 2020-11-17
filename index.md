@@ -7,14 +7,15 @@ High achieving software developer and instructor with 3+ years’ of well-rounde
 Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development
 
 ### Experience
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a list of my professional experience.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 1.Programmer Analyst
+
+# 2. Web Developer
+
+# 3. Jr. Web Developer
 
 - Bulleted
 - List
