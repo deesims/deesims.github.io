@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/deesims/deesims.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Building quality websites and applications with HTML, CSS, JavaScript and PHP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a top technology firm.
+
+Key skills include:
+
+Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL
+Expert in LAMP Web Service Stacks
+Experience Teaching Web Development
 
 ### Markdown
 
