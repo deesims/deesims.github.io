@@ -9,9 +9,8 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 ## Experience
 Here is a list of my professional experience.
 
-```markdown
 ### Programmer Analyst @ IT uOttawa
-
+```markdown
 September 2019 - September 2020
 
   • Completed a long term project to develop new software features for an existing web product on a strict deadline. 
@@ -25,10 +24,10 @@ September 2019 - September 2020
   • Provided training sessions and material about the software product to new team members.
 ```
 
-```markdown
 ### Web Developer @ IT uOttawa
-
+```markdown
 September 2018 - September 2019
+
   • Developed back end features in PHP with custom house-built MVC
   framework.
   • Developed front end features for an administrative application used by
@@ -37,6 +36,18 @@ September 2018 - September 2019
   • Developed synchronization features between application data and central
   information system.
   • Followed an Agile team and took part in collaborative programming
+```
+
+### Jr Web Developer @ EduGo Tech
+```markdown
+September 2017 - August 2018
+
+- Participated in a small scope start up.
+- Developed editing features for web application.
+- Learned and programmed in Golang environment.
+- Participated in presentation of the new project to stake holders and interest
+groups.
+- Exercised project brainstorming to set goals, expectations and deadlines.
 ```
 
 
