@@ -42,7 +42,7 @@ September 2018 - September 2019
 
 ## Education
 
-[University of Ottawa] (https://www.uottawa.ca/en)
+[University of Ottawa](https://www.uottawa.ca/en)
 Bachelor of Science (Hons)
 Computer Science
 2015 - 2020
