@@ -62,5 +62,5 @@ Computer Science
 
 ## Download
 
-1. [Resume](https://deesims.github.io/resume.html)
+1. [Resume](https://drive.google.com/file/d/1j5R2gzEpswfFiFpGDJkoMms_2eH8cD2n/view?usp=sharing)
 2. [Cryptoanalysis AES/ECC Comparison](https://docs.google.com/spreadsheets/d/1ZxZiA-qPB99_jy3Nz_PxJ9RLa_8P3csFRSqXDmh1chM/edit?usp=sharing)
