@@ -10,12 +10,35 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 ### 1. Programmer Analyst @ IT uOttawa
 September 2019 - September 2020
+```
+technologies:
+  - php 7.0
+  - mysql
+  - twig
+  - jquery
+  - gitlab ci/cd
+```
 
 ### 2. Web Developer @ IT uOttawa
 September 2018 - September 2019
+```
+technologies:
+  - php 7.0
+  - mysql
+  - twig
+  - jquery
+  - vagrant
+```
 
 ### 3. Jr Web Developer @ EduGo Tech
 September 2017 - August 2018
+```
+technologies:
+  - golang
+  - postgresql
+  - docker
+  - java
+```
 
 
 ## Education
