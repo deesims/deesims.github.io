@@ -8,16 +8,13 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 # Experience
 
-## 1. Programmer Analyst
-### IT uOttawa
+### 1. Programmer Analyst @ IT uOttawa
 September 2019 - September 2020
 
-## 2. Web Developer 
-### IT uOttawa
+### 2. Web Developer @ IT uOttawa
 September 2018 - September 2019
 
-## 3. Jr Web Developer 
-### EduGo Tech
+### 3. Jr Web Developer @ EduGo Tech
 September 2017 - August 2018
 
 
