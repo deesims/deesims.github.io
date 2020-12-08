@@ -37,8 +37,8 @@ Computer Science
 
 ## Projects
 
-1. Blackjack 
-2. Circle the Dot
+1. [Blackjack](https://deesims.github.io/blackjack-in-python)
+2. [Circle the Dot](https://deesims.github.io/circle_dot)
 3. WordClouds and NLP
 4. 120plus.com
 5. Android development tutorial
