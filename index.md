@@ -6,58 +6,26 @@ High achieving software developer and instructor with 3+ years’ of well-rounde
 
 Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development
 
-## Experience
-Here is a list of my professional experience.
+# Experience
 
-### Programmer Analyst @ IT uOttawa
-```markdown
+## Programmer Analyst
+# IT uOttawa
 September 2019 - September 2020
 
-  • Completed a long term project to develop new software features for 
-    an existing web product on a strict deadline. 
-  • Communicated with the business team to gather requirements and acceptance criteria. 
-  • Created user stories for junior development team based on bussiness needs.
-  • Participated and lead an Agile team running Sprints and 
-    following Scrum methodology.
-  • Provided documentation for both new bussiness processes and new code architecture.
-  • Supported and maintained an existing production environment through ticket resolving.
-  • Analyzed and researched technical debt and provided solutions for data normalization, 
-    accessibility, user interaces and security.
-  • Provided training sessions and material about the software product to new team members.
-```
-
-### Web Developer @ IT uOttawa
-```markdown
+### Web Developer 
+## IT uOttawa
 September 2018 - September 2019
 
-  • Developed back end features in PHP with custom house-built MVC
-  framework.
-  • Developed front end features for an administrative application used by
-  students, professors and academic staff.
-  • Developed ETL strategies and implemented them.
-  • Developed synchronization features between application data and central
-  information system.
-  • Followed an Agile team and took part in collaborative programming
-```
-
-### Jr Web Developer @ EduGo Tech
-```markdown
+### Jr Web Developer 
+## EduGo Tech
 September 2017 - August 2018
-
-- Participated in a small scope start up.
-- Developed editing features for web application.
-- Learned and programmed in Golang environment.
-- Participated in presentation of the new project to stake holders and interest
-groups.
-- Exercised project brainstorming to set goals, expectations and deadlines.
-```
 
 
 ## Education
 
 [University of Ottawa](https://www.uottawa.ca/en)
 
-Bachelor of Science (Hons)
+Bachelor of Science
 
 Computer Science
 
@@ -65,8 +33,12 @@ Computer Science
 
 ## Blog
 
-Check out what I write here [Click](https://deesims.github.io/blog)
+[Click](https://deesims.github.io/blog)
 
 ## Projects
 
-Updating ...
+1. Blackjack 
+2. Circle the Dot
+3. WordClouds and NLP
+4. 120plus.com
+5. Android development tutorial
