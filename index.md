@@ -37,6 +37,13 @@ September 2017 - August 2018
   - java
 ```
 
+## Projects
+
+1. [Blackjack](https://github.com/deesims/blackjack-in-python)
+2. [Circle the Dot](https://github.com/deesims/circle_dot)
+3. WordClouds and NLP
+4. 120plus.com
+5. Android development tutorial
 
 ## Education
 
@@ -48,19 +55,11 @@ Computer Science
 
 2015 - 2020
 
-## Blog
-
-[Click](https://deesims.github.io/blog)
-
-## Projects
-
-1. [Blackjack](https://github.com/deesims/blackjack-in-python)
-2. [Circle the Dot](https://github.com/deesims/circle_dot)
-3. WordClouds and NLP
-4. 120plus.com
-5. Android development tutorial
-
 ## Download
 
 1. [Resume](https://drive.google.com/file/d/1j5R2gzEpswfFiFpGDJkoMms_2eH8cD2n/view?usp=sharing)
 2. [Cryptoanalysis AES/ECC Comparison](https://docs.google.com/spreadsheets/d/1ZxZiA-qPB99_jy3Nz_PxJ9RLa_8P3csFRSqXDmh1chM/edit?usp=sharing)
+
+## Blog
+
+[Click](https://deesims.github.io/blog)
