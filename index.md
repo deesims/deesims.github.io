@@ -25,7 +25,7 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 1. [How to code for beginners](https://deesims.github.io/blog/)
 2. [How video games shaped my mind for software](https://deesims.github.io/blog/)
-3. [What I learned studying Compuyrt Science](https://deesims.github.io/blog)
+3. [What I learned studying Computer Science](https://deesims.github.io/blog)
 
 ## Website Designs
 
