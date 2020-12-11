@@ -33,4 +33,8 @@ BSc in Computer Science. 2015-2020.
 2. [How video games shaped my mind for software](https://deesims.github.io/blog/)
 3. [What I learned studying CompSci](https://deesims.github.io/blog)
 
-In progress ... 
+## Website Designs
+
+1. StairwaysAndCabinetry
+2. Landscaping web profile
+3. Tutoring solutions banner
