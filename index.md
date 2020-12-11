@@ -35,7 +35,7 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 ## Credentials
 
-1. BSc in Computer Science (2015-2020) at [University of Ottawa](https://www.uottawa.ca/en).
+1. BSc in Computer Science from [uOttawa](https://www.uottawa.ca/en) 2015-2020
 2. Google Cloud IT Certificate
 3. Eureka DevOps Course Certificate
 4. Digital Security Training
