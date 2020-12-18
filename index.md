@@ -1,5 +1,11 @@
 # deesims.github.io
 
+Building quality websites and applications with HTML, CSS, JavaScript and PHP.
+
+High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a technology firm.
+
+Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development
+
 ## Projects
 
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
