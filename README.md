@@ -1,5 +1,3 @@
-# deesims.github.io
-
 ## Projects
 
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
@@ -19,7 +17,7 @@
 
 1. [How to code for beginners](https://deesims.github.io/blog/)
 2. [How video games shaped my mind for software](https://deesims.github.io/blog/)
-3. [What I learned studying Compuyrt Science](https://deesims.github.io/blog)
+3. [What I learned studying Computer Science](https://deesims.github.io/blog)
 
 ## Website Designs
 
