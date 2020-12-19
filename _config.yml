@@ -1,2 +1,7 @@
 theme: jekyll-theme-hacker
 show_banners: true
+
+title: deesims.github.io
+description: to showcase results and projects
+
+show_downloads: true
