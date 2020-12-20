@@ -1,5 +1,15 @@
 # deesims.github.io
 
+```
+var object = new Person('oleks')
+while (object.notAtWork()) {
+   object.eat();
+   object.read();
+   object.sleep();
+   object.working = true;
+};
+```
+
 Building quality websites and applications with HTML, CSS, JavaScript and PHP.
 
 High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a technology firm.
