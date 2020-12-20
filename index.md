@@ -1,12 +1,12 @@
 # deesims.github.io
 
 ```
-var object = new Person('oleks')
+var object = new Person('Me');
 while (object.notAtWork()) {
    object.eat();
    object.read();
    object.sleep();
-   object.working = true;
+   object.goToWork(true);
 };
 ```
 
