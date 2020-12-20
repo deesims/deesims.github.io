@@ -1,6 +1,6 @@
 # deesims.github.io
 
-```
+```javascript
 var object = new Person('Me');
 while (object.notAtWork()) {
    object.eat();
