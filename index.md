@@ -33,20 +33,14 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 ## Posts 
 
-1. [How to code for beginners](https://deesims.github.io/blog/)
-2. [How video games shaped my mind for software](https://deesims.github.io/blog/)
-3. [What I learned studying Computer Science](https://deesQims.github.io/blog)
-
-## Website Designs
-
-1. StairwaysAndCabinetry
-2. Landscaping web profile
-3. Tutoring solutions banner
+* [How to code for beginners](https://deesims.github.io/blog/2020/08/20/howtocode.html)
+* [How video games shaped my mind for software](https://deesims.github.io/blog/2020/11/15/video-games.html)
+* [What I learned studying Computer Science](https://deesims.github.io/blog/2020/11/14/computer-science.html)
 
 ## Credentials
 
-1. Bachelor of Science in Computer Science (2015-2020) 
+* Bachelor of Science in Computer Science (2015-2020) 
    at [University of Ottawa](https://www.uottawa.ca/en).
-2. Google Cloud IT Certificate
-3. Eureka DevOps Course Certificate
-4. Digital Security Training
+* Google Cloud IT Certificate
+* Eureka DevOps Course Certificate
+* Digital Security Training
