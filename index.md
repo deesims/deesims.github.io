@@ -2,7 +2,7 @@
 
 ```javascript
 var object = new Person('Me');
-while (object.notAtWork()) {
+while (!object.isAtWork()) {
    object.eat();
    object.read();
    object.sleep();
