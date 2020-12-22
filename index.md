@@ -14,8 +14,7 @@ Building quality websites and applications with HTML, CSS, JavaScript and PHP.
 
 High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a technology firm.
 
-Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java, C++ and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development
-
+Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development. Proficient in Ubuntu, Windows and Mac.
 ## Projects
 
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
@@ -33,14 +32,11 @@ Key skills include: Proficient in HTML, CSS, Server-Scripting, PHP, Python, Java
 
 ## Posts 
 
-* [How to code for beginners](https://deesims.github.io/blog/2020/08/20/howtocode.html)
-* [How video games shaped my mind for software](https://deesims.github.io/blog/2020/11/15/video-games.html)
-* [What I learned studying Computer Science](https://deesims.github.io/blog/2020/11/14/computer-science.html)
+1. [How to code for beginners](https://deesims.github.io/blog/2020/08/20/howtocode.html)
+2. [How video games shaped my mind for software](https://deesims.github.io/blog/2020/11/15/video-games.html)
+3. [What I learned studying Computer Science](https://deesims.github.io/blog/2020/11/14/computer-science.html)
 
 ## Credentials
 
 * Bachelor of Science in Computer Science (2015-2020) 
    at [University of Ottawa](https://www.uottawa.ca/en).
-* Google Cloud IT Certificate
-* Eureka DevOps Course Certificate
-* Digital Security Training
