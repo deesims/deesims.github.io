@@ -21,7 +21,7 @@ Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP W
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
 2. [Circle the Dot](https://github.com/deesims/circle_dot)
 4. [120plus.com](https://120plus.com)
-5. [Programming+Gaming stream](https://twitch.com/devquake)
+5. [(programming + gaming) stream](https://twitch.com/devquake)
 
 ## ML Notebooks
 
@@ -40,7 +40,6 @@ Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP W
 
 * Bachelor of Science in Computer Science (2015-2020) 
    at [University of Ottawa](https://www.uottawa.ca/en).
-
 
 ## Download
 
