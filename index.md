@@ -15,12 +15,13 @@ Building quality websites and applications with HTML, CSS, JavaScript and PHP.
 High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a technology firm.
 
 Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development. Proficient in Ubuntu, Windows and Mac.
+
 ## Projects
 
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
 2. [Circle the Dot](https://github.com/deesims/circle_dot)
 4. [120plus.com](https://120plus.com)
-5. [Android development tutorial](https://twitch.com)
+5. [Programming+Gaming stream](https://twitch.com/devquake)
 
 ## ML Notebooks
 
@@ -45,3 +46,7 @@ Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP W
 
 1. [CV](https://drive.google.com/file/d/1j5R2gzEpswfFiFpGDJkoMms_2eH8cD2n/view?usp=sharing)
 2. [jupyter iframes](https://deesims.github.io/iframes/nlp.html)
+
+## Business
+
+1. [Software Solutions](http://hlovyak.com)
