@@ -22,7 +22,7 @@ Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP W
 2. [Circle the Dot](https://github.com/deesims/circle_dot)
 4. [120plus.com](https://120plus.com)
 5. [(programming + gaming) stream](https://twitch.com/devquake)
-6. [Software Solutions](http://hlovyak.com)
+6. [Software Solutions](https://hlovyak.com)
 
 ## ML Notebooks
 
