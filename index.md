@@ -11,10 +11,8 @@ while (!object.isAtWork()) {
 ```
 
 Building software solutions and applications with frontier technology.
-
-High achieving software developer and instructor with 3+ years’ of well-rounded experience in full stack development under agile methodology.
-
-Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. React Native Mobile Development. Proficient in Ubuntu, Windows and Mac.
+High achieving software developer and instructor with 3+ years’ of professional experience in full stack development under agile methodology.
+Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP. Intermediate mobile development using React Native. Can quickly adapt to new technology.
 
 ## Projects
 
