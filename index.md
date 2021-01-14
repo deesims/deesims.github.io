@@ -12,9 +12,9 @@ while (!object.isAtWork()) {
 
 Building software solutions and applications with frontier technology.
 
-High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design.
+High achieving software developer and instructor with 3+ years’ of well-rounded experience in full stack development under agile methodology.
 
-Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. React Native Mobile Development. Experience Teaching Web Development. Proficient in Ubuntu, Windows and Mac.
+Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. React Native Mobile Development. Proficient in Ubuntu, Windows and Mac.
 
 ## Projects
 
@@ -44,4 +44,4 @@ Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP W
 
 ## Credentials
 
-BSc in Computer Science from [University of Ottawa](https://www.uottawa.ca/en) [2015-2020]
+BSc in Computer Science [University of Ottawa](https://www.uottawa.ca/en) (2015-2020)
