@@ -12,9 +12,9 @@ while (!object.isAtWork()) {
 
 Building software solutions and applications with frontier technology.
 
-High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a technology firm.
+High achieving software developer and instructor with 3+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design.
 
-Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. Experience Teaching Web Development. Proficient in Ubuntu, Windows and Mac.
+Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP Web Service Stacks. React Native Mobile Development. Experience Teaching Web Development. Proficient in Ubuntu, Windows and Mac.
 
 ## Projects
 
