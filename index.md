@@ -17,7 +17,8 @@ Building software solutions and applications with frontier technology. High achi
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
 2. [Circle the Dot](https://github.com/deesims/circle_dot)
 4. [Private cloud host for friends and family](https://hlovyak.com)
-5. [(programming + gaming) stream](https://twitch.com/devquake)
+5. [Computer Graphics 3D Car Simulation]()
+6. [(programming + gaming) stream](https://twitch.com/devquake)
 
 ## ML Notebooks
 
