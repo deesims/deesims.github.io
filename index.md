@@ -10,7 +10,7 @@ while (!object.isAtWork()) {
 };
 ```
 
-Building software solutions and applications with frontier technology. High achieving software developer and instructor with 3+ years’ of professional experience in full stack development under agile methodology. Proficient in HTML, CSS, Javascript, PHP, Python, Java and SQL. Expert in LAMP. Can quickly adapt to new technology.
+Building software solutions and applications with frontier technology. High achieving software developer and instructor with 3+ years’ of professional experience in full stack development under agile methodology. Expert in LAMP. Can quickly adapt to new technology.
 
 ## Projects
 
