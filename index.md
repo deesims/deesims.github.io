@@ -16,9 +16,8 @@ Building software solutions and applications with frontier technology. High achi
 
 1. [Blackjack](https://github.com/deesims/blackjack-in-python)
 2. [Circle the Dot](https://github.com/deesims/circle_dot)
-4. [120plus.com](https://120plus.com)
+4. [Private cloud host for friends and family](https://hlovyak.com)
 5. [(programming + gaming) stream](https://twitch.com/devquake)
-6. [Software Solutions](https://hlovyak.com)
 
 ## ML Notebooks
 
@@ -29,15 +28,16 @@ Building software solutions and applications with frontier technology. High achi
 
 ## Articles 
 
-1. [How to code for beginners](https://deesims.github.io/blog/2020/08/20/howtocode.html)
-2. [How video games shaped my mind for software](https://deesims.github.io/blog/2020/11/15/video-games.html)
-3. [What I learned studying Computer Science](https://deesims.github.io/blog/2020/11/14/computer-science.html)
+1. [Art vs Code](https://deesims.github.io/blog/2020/08/20/howtocode.html)
+2. [Gaming Minds in the Software World](https://deesims.github.io/blog/2020/11/15/video-games.html)
+3. [Computer Science Fundamentals](https://deesims.github.io/blog/2020/11/14/computer-science.html)
 
 ## Download
 
 1. [CV](https://drive.google.com/file/d/1j5R2gzEpswfFiFpGDJkoMms_2eH8cD2n/view?usp=sharing)
 2. [jupyter iframes](https://deesims.github.io/iframes/nlp.html)
 
-## Credentials
+## Education
 
-BSc in Computer Science [University of Ottawa](https://www.uottawa.ca/en) (2015-2020)
+1. BSc in Computer Science [University of Ottawa](https://www.uottawa.ca/en) (2015-2020)
+2. Honors Thesis UX/UI Mobile Development [University of Ottawa]
